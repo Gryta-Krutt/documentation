@@ -11,3 +11,7 @@
 ## Troubleshooting
 
 * [🤝 Handshake issues](troubleshooting/handshake-issues.md)
+
+## Technical
+
+* [📡 Flowchart](technical/flowchart.md)
